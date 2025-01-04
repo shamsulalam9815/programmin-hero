@@ -1,8 +1,22 @@
 * {
   background-color: #374386;
+
   color: white;
+  box-sizing: border-box;
 }
 
 p {
   color: tomato;
+}
+
+div {
+  background-color: greenyellow;
+  width: 50%;
+  padding: 20px 10px;
+  margin-bottom: 2rem;
+}
+
+div h1,
+p {
+  color: rgb(179, 104, 104);
 }
